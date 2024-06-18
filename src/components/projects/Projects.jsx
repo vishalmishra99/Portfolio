@@ -10,7 +10,7 @@ const Projects = () => {
         <h2 className='section_title'>Projects</h2>
         <span className='section_subtitle'></span>
 
-        <div className='skills_containe container grid'>
+        <div className='skills_containe container grid' id='skills_container'>
             <DocBooker/>
             <CareerHub />
         </div>

@@ -70,10 +70,15 @@
     }
     .docDiv{
         height: 110px;
-        width: 200px;
+        width: 240px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
-    .docImage{
-        object-fit: contain;
+    #skills_container{
+        display: flex;
+        flex-wrap: wrap;
+        padding: 5px;
     }
   }
   
