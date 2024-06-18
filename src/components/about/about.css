@@ -63,6 +63,8 @@
     }
     .about_info{
         justify-content: center;
+        display: flex;
+        flex-wrap: wrap;
     }
     .about_description{
         padding: 0 5rem;
