@@ -153,6 +153,12 @@
     .home_scroll{
         display: none;
     }
+    .home_title , .home_description{
+        text-align: center;
+    }
+    .button-flex{
+        text-align: center;
+    }
   }
 
 
